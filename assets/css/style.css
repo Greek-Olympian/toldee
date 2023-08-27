@@ -259,7 +259,7 @@
     align-items: center;
   }
   .right form .button-area button{
-    color: #222;
+    color: #fff;
     display: block;
     width: 160px!important;
     height: 40px;
@@ -324,7 +324,7 @@
     border: none;
     cursor: pointer;
     border-radius: 5px;
-    background: #333;
+    background: black;
     transition: 0.2s ease;
   }
   .contact form button:hover {
