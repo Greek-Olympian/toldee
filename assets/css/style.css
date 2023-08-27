@@ -123,6 +123,7 @@
   }
   section h2 {
     font-size: 2rem;
+      padding: 18px;
   }
   section > p {
     text-align: center;
