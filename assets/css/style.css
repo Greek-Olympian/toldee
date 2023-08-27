@@ -320,14 +320,14 @@
     margin-top: 10px;
     padding: 10px 20px;
     font-size: 17px;
-    color: #fff;
+    color: black;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
-    background: black;
+    border-radius: 13px;
+    background-color: grey;
     transition: 0.2s ease;
   }
-  .contact form button:hover {
+  .contact form{
     background: #525252;
   }
   .contact form button{
